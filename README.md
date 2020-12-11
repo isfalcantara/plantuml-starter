@@ -4,6 +4,13 @@ Simple way to setup a PlantUML development environment by using Docker Compose a
 
 For the best experience, use [Visual Studio Code](https://code.visualstudio.com/) with the [PlantUML extension](https://marketplace.visualstudio.com/items?itemName=jebbs.plantuml).
 
+## Requirements
+
+- [Docker](https://docs.docker.com/get-docker/)
+- [Docker Compose](https://docs.docker.com/compose/install/)
+- [Visual Studio Code](https://code.visualstudio.com/)
+- [PlantUML VSCode extension](https://marketplace.visualstudio.com/items?itemName=jebbs.plantuml)
+
 ## Installation
 
 1. Clone the repo: `git clone git@github.com:isfalcantara/plantuml-docker-compose.git`
