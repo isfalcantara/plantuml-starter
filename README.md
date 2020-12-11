@@ -26,7 +26,7 @@ From there you can follow the instructions in the [PlantUML extension page](http
 The project already has a `.vscode` folder that contains some specific configuration for the PlantUML extension, such as:
 
 - The PlantUML server is set to `localhost:8080` to use the Docker container instead of the web service.
-- All generated diagram files are placed in the `_build` folder.
+- All generated diagram files are placed in the `out` folder.
 
 ## License
 
