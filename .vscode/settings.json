@@ -1,0 +1,5 @@
+{
+  "plantuml.exportOutDir": "out",
+  "plantuml.render": "PlantUMLServer",
+  "plantuml.server": "localhost:8080"
+}

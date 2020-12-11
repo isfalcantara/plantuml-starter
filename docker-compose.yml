@@ -1,0 +1,6 @@
+version: "3"
+services:
+  plantuml:
+    image: plantuml/plantuml-server:jetty-v1.2019.11
+    ports:
+      - 127.0.0.1:8080:8080
